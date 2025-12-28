@@ -1,4 +1,4 @@
-﻿namespace Launcher_v2
+﻿namespace Launcher_v3
 {
     partial class Form1
     {
@@ -96,7 +96,7 @@
             // closeBtn
             // 
             this.closeBtn.BackColor = System.Drawing.Color.Transparent;
-            this.closeBtn.BackgroundImage = global::Launcher_v2.Properties.Resources.close1;
+            this.closeBtn.BackgroundImage = global::Launcher_v3.Properties.Resources.close1;
             this.closeBtn.FlatAppearance.BorderSize = 0;
             this.closeBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.closeBtn.Location = new System.Drawing.Point(1299, 0);
@@ -112,7 +112,7 @@
             // minimizeBtn
             // 
             this.minimizeBtn.BackColor = System.Drawing.Color.Transparent;
-            this.minimizeBtn.BackgroundImage = global::Launcher_v2.Properties.Resources.minimize1;
+            this.minimizeBtn.BackgroundImage = global::Launcher_v3.Properties.Resources.minimize1;
             this.minimizeBtn.FlatAppearance.BorderSize = 0;
             this.minimizeBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.minimizeBtn.Location = new System.Drawing.Point(1248, 0);

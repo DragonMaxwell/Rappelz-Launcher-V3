@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Launcher_v2
+namespace Launcher_v3
 {
     public class IniFile : IDisposable
     {

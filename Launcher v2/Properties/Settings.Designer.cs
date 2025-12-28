@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Launcher_v2.Properties {
+namespace Launcher_v3.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

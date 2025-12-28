@@ -26,8 +26,8 @@
     <ProjectGuid>{6B220888-A64E-45A5-B00F-60BBC632B209}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Launcher_v2</RootNamespace>
-    <AssemblyName>Launcher v2</AssemblyName>
+    <RootNamespace>Launcher_v3</RootNamespace>
+    <AssemblyName>Launcher v3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

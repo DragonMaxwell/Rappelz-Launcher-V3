@@ -17,7 +17,7 @@ using System.Xml.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Launcher_v2
+namespace Launcher_v3
 {
     public partial class Form1 : Form
     {
@@ -28,10 +28,10 @@ namespace Launcher_v2
         private IniFile _iniFile;
         private string sframeParams { get; set; }
 
-        [DllImportAttribute("user32.dll")]
+        [DllImport("user32.dll")]
         public static extern int SendMessage(IntPtr hWnd,
                          int Msg, int wParam, int lParam);
-        [DllImportAttribute("user32.dll")]
+        [DllImport("user32.dll")]
         public static extern bool ReleaseCapture();
 
         public Form1()
